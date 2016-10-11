@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/BaoAn/Desktop/New folder/Game_Ex1/Content/Backyard_Pool01.png</File>
+    <File>C:/Users/BaoAn/Desktop/New folder/Game_Ex1/Content/Starter_Island01.png</File>
+    <File>C:/Users/BaoAn/Desktop/New folder/Game_Ex1/Content/Fire01.png</File>
+    <File>C:/Users/BaoAn/Desktop/New folder/Game_Ex1/Content/Fire02.png</File>
+    <File>C:/Users/BaoAn/Desktop/New folder/Game_Ex1/Content/Fire03.png</File>
+    <File>C:/Users/BaoAn/Desktop/New folder/Game_Ex1/Content/Fire04.png</File>
+    <File>C:/Users/BaoAn/Desktop/New folder/Game_Ex1/Content/LilyPad01.png</File>
+  </SourceFiles>
+</SourceFileCollection>

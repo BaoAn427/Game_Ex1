@@ -1,0 +1,64 @@
+E:\SUBJECTS\NAM4_HK1\GAME\Assignment\Game_Ex1\Game_Ex1\bin\Windows\Debug\Game_Ex1.exe
+E:\SUBJECTS\NAM4_HK1\GAME\Assignment\Game_Ex1\Game_Ex1\bin\Windows\Debug\Game_Ex1.pdb
+E:\SUBJECTS\NAM4_HK1\GAME\Assignment\Game_Ex1\Game_Ex1\bin\Windows\Debug\MonoGame.Framework.dll
+E:\SUBJECTS\NAM4_HK1\GAME\Assignment\Game_Ex1\Game_Ex1\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+E:\SUBJECTS\NAM4_HK1\GAME\Assignment\Game_Ex1\Game_Ex1\bin\Windows\Debug\SharpDX.dll
+E:\SUBJECTS\NAM4_HK1\GAME\Assignment\Game_Ex1\Game_Ex1\bin\Windows\Debug\SharpDX.XAudio2.dll
+E:\SUBJECTS\NAM4_HK1\GAME\Assignment\Game_Ex1\Game_Ex1\bin\Windows\Debug\SharpDX.Direct3D11.dll
+E:\SUBJECTS\NAM4_HK1\GAME\Assignment\Game_Ex1\Game_Ex1\bin\Windows\Debug\SharpDX.DXGI.dll
+E:\SUBJECTS\NAM4_HK1\GAME\Assignment\Game_Ex1\Game_Ex1\bin\Windows\Debug\SharpDX.Direct2D1.dll
+E:\SUBJECTS\NAM4_HK1\GAME\Assignment\Game_Ex1\Game_Ex1\bin\Windows\Debug\SharpDX.XInput.dll
+E:\SUBJECTS\NAM4_HK1\GAME\Assignment\Game_Ex1\Game_Ex1\bin\Windows\Debug\SharpDX.RawInput.dll
+E:\SUBJECTS\NAM4_HK1\GAME\Assignment\Game_Ex1\Game_Ex1\bin\Windows\Debug\SharpDX.Direct3D9.dll
+E:\SUBJECTS\NAM4_HK1\GAME\Assignment\Game_Ex1\Game_Ex1\bin\Windows\Debug\MonoGame.Framework.xml
+E:\SUBJECTS\NAM4_HK1\GAME\Assignment\Game_Ex1\Game_Ex1\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+E:\SUBJECTS\NAM4_HK1\GAME\Assignment\Game_Ex1\Game_Ex1\bin\Windows\Debug\SharpDX.xml
+E:\SUBJECTS\NAM4_HK1\GAME\Assignment\Game_Ex1\Game_Ex1\bin\Windows\Debug\SharpDX.XAudio2.xml
+E:\SUBJECTS\NAM4_HK1\GAME\Assignment\Game_Ex1\Game_Ex1\bin\Windows\Debug\SharpDX.Direct3D11.xml
+E:\SUBJECTS\NAM4_HK1\GAME\Assignment\Game_Ex1\Game_Ex1\bin\Windows\Debug\SharpDX.DXGI.xml
+E:\SUBJECTS\NAM4_HK1\GAME\Assignment\Game_Ex1\Game_Ex1\bin\Windows\Debug\SharpDX.Direct2D1.xml
+E:\SUBJECTS\NAM4_HK1\GAME\Assignment\Game_Ex1\Game_Ex1\bin\Windows\Debug\SharpDX.XInput.xml
+E:\SUBJECTS\NAM4_HK1\GAME\Assignment\Game_Ex1\Game_Ex1\bin\Windows\Debug\SharpDX.RawInput.xml
+E:\SUBJECTS\NAM4_HK1\GAME\Assignment\Game_Ex1\Game_Ex1\bin\Windows\Debug\SharpDX.Direct3D9.xml
+E:\SUBJECTS\NAM4_HK1\GAME\Assignment\Game_Ex1\Game_Ex1\obj\x86\Debug\Game_Ex1.csprojResolveAssemblyReference.cache
+E:\SUBJECTS\NAM4_HK1\GAME\Assignment\Game_Ex1\Game_Ex1\obj\x86\Debug\Game_Ex1.exe
+E:\SUBJECTS\NAM4_HK1\GAME\Assignment\Game_Ex1\Game_Ex1\obj\x86\Debug\Game_Ex1.pdb
+E:\SUBJECTS\NAM4_HK1\GAME\Assignment\Game_Ex1\Game_Ex1\bin\Windows\Debug\Content\Backyard_Pool01.xnb
+E:\SUBJECTS\NAM4_HK1\GAME\Assignment\Game_Ex1\Game_Ex1\bin\Windows\Debug\Content\Starter_Island01.xnb
+E:\SUBJECTS\NAM4_HK1\GAME\Assignment\Game_Ex1\Game_Ex1\bin\Windows\Debug\Content\Fire01.xnb
+E:\SUBJECTS\NAM4_HK1\GAME\Assignment\Game_Ex1\Game_Ex1\bin\Windows\Debug\Content\Fire02.xnb
+E:\SUBJECTS\NAM4_HK1\GAME\Assignment\Game_Ex1\Game_Ex1\bin\Windows\Debug\Content\Fire03.xnb
+E:\SUBJECTS\NAM4_HK1\GAME\Assignment\Game_Ex1\Game_Ex1\bin\Windows\Debug\Content\Fire04.xnb
+E:\SUBJECTS\NAM4_HK1\GAME\Assignment\Game_Ex1\Game_Ex1\bin\Windows\Debug\Content\LilyPad01.xnb
+C:\Users\BaoAn\Desktop\New folder\Game_Ex1\obj\x86\Debug\Game_Ex1.exe
+C:\Users\BaoAn\Desktop\New folder\Game_Ex1\obj\x86\Debug\Game_Ex1.pdb
+C:\Users\BaoAn\Desktop\New folder\Game_Ex1\bin\Windows\Debug\Content\Backyard_Pool01.xnb
+C:\Users\BaoAn\Desktop\New folder\Game_Ex1\bin\Windows\Debug\Content\Fire01.xnb
+C:\Users\BaoAn\Desktop\New folder\Game_Ex1\bin\Windows\Debug\Content\Fire02.xnb
+C:\Users\BaoAn\Desktop\New folder\Game_Ex1\bin\Windows\Debug\Content\Fire03.xnb
+C:\Users\BaoAn\Desktop\New folder\Game_Ex1\bin\Windows\Debug\Content\Fire04.xnb
+C:\Users\BaoAn\Desktop\New folder\Game_Ex1\bin\Windows\Debug\Content\LilyPad01.xnb
+C:\Users\BaoAn\Desktop\New folder\Game_Ex1\bin\Windows\Debug\Content\Starter_Island01.xnb
+C:\Users\BaoAn\Desktop\New folder\Game_Ex1\bin\Windows\Debug\Game_Ex1.exe
+C:\Users\BaoAn\Desktop\New folder\Game_Ex1\bin\Windows\Debug\Game_Ex1.pdb
+C:\Users\BaoAn\Desktop\New folder\Game_Ex1\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\BaoAn\Desktop\New folder\Game_Ex1\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\BaoAn\Desktop\New folder\Game_Ex1\bin\Windows\Debug\SharpDX.dll
+C:\Users\BaoAn\Desktop\New folder\Game_Ex1\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\BaoAn\Desktop\New folder\Game_Ex1\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\BaoAn\Desktop\New folder\Game_Ex1\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\BaoAn\Desktop\New folder\Game_Ex1\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\BaoAn\Desktop\New folder\Game_Ex1\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\BaoAn\Desktop\New folder\Game_Ex1\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\BaoAn\Desktop\New folder\Game_Ex1\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\BaoAn\Desktop\New folder\Game_Ex1\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\BaoAn\Desktop\New folder\Game_Ex1\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\BaoAn\Desktop\New folder\Game_Ex1\bin\Windows\Debug\SharpDX.xml
+C:\Users\BaoAn\Desktop\New folder\Game_Ex1\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\BaoAn\Desktop\New folder\Game_Ex1\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\BaoAn\Desktop\New folder\Game_Ex1\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\BaoAn\Desktop\New folder\Game_Ex1\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\BaoAn\Desktop\New folder\Game_Ex1\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\BaoAn\Desktop\New folder\Game_Ex1\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\BaoAn\Desktop\New folder\Game_Ex1\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\BaoAn\Desktop\New folder\Game_Ex1\obj\x86\Debug\Game_Ex1.csprojResolveAssemblyReference.cache
